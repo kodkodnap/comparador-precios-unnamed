@@ -1,0 +1,6 @@
+{
+  "name": "AhorroPtoMontt - Comparador de Supermercados",
+  "description": "Comparador de precios en supermercados locales de Puerto Montt (Chile) con escáner de códigos de barras, optimizador de canasta y reporte colaborativo.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
